@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TVEP</string>
+    <string name="facebook_app_id">107082493189099</string>
+    <string name="fb_login_protocol_scheme">fb107082493189099</string>
+    <string name="loading">Loading…</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_info">Info</string>
+
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <string name="title_activity_centre_location">Map</string>
+
+
+    <string-array name="report_options">
+        <item>Sexual Abuse</item>
+        <item>Emotional Abuse</item>
+        <item>Physical Abuse</item>
+        <item>HIV/AIDS</item>
+    </string-array>
+</resources>

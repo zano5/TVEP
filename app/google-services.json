@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "649657753108",
+    "firebase_url": "https://reportapp-6d70b.firebaseio.com",
+    "project_id": "reportapp-6d70b",
+    "storage_bucket": "reportapp-6d70b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649657753108:android:bde678be5d1aa10f",
+        "android_client_info": {
+          "package_name": "zaindev.ac.za.consultapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649657753108-r3cm397rdk8l7g32v1aems2smo51squq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zaindev.ac.za.consultapp",
+            "certificate_hash": "e14145af7319217848f528fb3dbf52a82017a30d"
+          }
+        },
+        {
+          "client_id": "649657753108-kb8b1mhk5t836rqet20i5933j5obi339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTe7yzPkPAI0wGxDUccyXFhbRqHg4-Krc"
+        },
+        {
+          "current_key": "AIzaSyC7Lj3E1SaXBMUGY9laPmT2hXTKL1jexKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649657753108-kb8b1mhk5t836rqet20i5933j5obi339.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649657753108:android:3add79168c4aad72",
+        "android_client_info": {
+          "package_name": "tut.ac.za.tvep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649657753108-1is6pss87nkl9nj12o8db3ibf8f7kn1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tut.ac.za.tvep",
+            "certificate_hash": "e14145af7319217848f528fb3dbf52a82017a30d"
+          }
+        },
+        {
+          "client_id": "649657753108-kb8b1mhk5t836rqet20i5933j5obi339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTe7yzPkPAI0wGxDUccyXFhbRqHg4-Krc"
+        },
+        {
+          "current_key": "AIzaSyC7Lj3E1SaXBMUGY9laPmT2hXTKL1jexKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649657753108-kb8b1mhk5t836rqet20i5933j5obi339.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

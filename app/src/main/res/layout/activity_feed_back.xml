@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tut.ac.za.tvep.FeedBackActivity"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etSubject"
+        android:hint="Subject"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/btnSubmit"
+        android:onClick="onSubmit"
+        android:text="Submit"
+        android:theme="@style/ThemeOverlay.MyDarkButton"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/etComment"
+        android:layout_below="@id/etSubject"
+        android:layout_above="@id/btnSubmit"
+        android:hint="Comment"
+        android:inputType="textMultiLine"
+        />
+
+
+
+
+</RelativeLayout>
